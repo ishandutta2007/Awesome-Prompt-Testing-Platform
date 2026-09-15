@@ -38,77 +38,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
-
-- **[Promptfoo](https://www.promptfoo.dev/)**  
-
-  Leading open-source LLM evaluation and red-teaming tool with cloud options; supports declarative configs, multi-model comparison, and CI/CD integration.
-
-
-
-- **[Braintrust](https://www.braintrust.dev/)**  
-
-  Evaluation-first platform for datasets, scoring, experiments, and production monitoring of LLM applications.
-
-
-
-- **[LangSmith](https://www.langchain.com/langsmith)**  
-
-  LangChain’s platform for tracing, evaluation, datasets, and prompt experimentation tightly integrated with LangChain/LangGraph.
-
-
-
-- **[Humanloop](https://humanloop.com/)**  
-
-  Prompt engineering and evaluation platform (check current status as the landscape evolves).
-
-
-
-- **[DeepEval / Confident AI](https://www.confident-ai.com/)**  
-
-  Open-source evaluation framework (DeepEval) with a commercial platform (Confident AI) for metrics, CI gates, and production monitoring.
-
-
-
-- **[Ragas](https://docs.ragas.io/)**  
-
-  Open-source RAG evaluation framework often paired with commercial or self-hosted observability tools.
-
-
-
-- **[Galileo](https://www.galileo.ai/)**  
-
-  LLM evaluation and observability platform focused on quality, hallucination detection, and production insights.
-
-
-
-- **[PromptLayer](https://www.promptlayer.com/)**  
-
-  Prompt management and evaluation platform with versioning, logging, and testing capabilities.
-
-
-
-- **[Helicone](https://www.helicone.ai/)**  
-
-  LLM observability platform that supports logging and analysis useful for prompt performance evaluation.
-
-
-
-- **[Langfuse](https://www.langfuse.com/)**  
-
-  Open-source LLM engineering platform with strong evaluation, datasets, experiments, and tracing (cloud and self-hosted).
-
-
-
-- **[Agenta](https://agenta.ai/)**  
-
-  Open-source LLMOps platform focused on prompt engineering, evaluation, and collaboration.
-
-
-
-- **[PromptPerfect](https://promptperfect.jina.ai/)** (or similar optimization tools)  
-
-  Tools aimed at optimizing and testing prompt quality.
+| Platform | Description | Starting Tier Price | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Promptfoo](https://www.promptfoo.dev/)** | Leading open-source LLM evaluation and red-teaming tool with cloud options; supports declarative configs, multi-model comparison, and CI/CD integration. | $50/month (Team plan) | Free forever (100% free open-source CLI/core; Cloud free tier for individuals) |
+| **[Braintrust](https://www.braintrust.dev/)** | Evaluation-first platform for datasets, scoring, experiments, and production monitoring of LLM applications. | $249/month (Pro plan) | Free Starter plan (1 GB data/mo, 10k scores/mo, 1M trace spans, 14-day retention, $10/mo model credits) |
+| **[LangSmith](https://www.langchain.com/langsmith)** | LangChain’s platform for tracing, evaluation, datasets, and prompt experimentation tightly integrated with LangChain/LangGraph. | $39/seat/month (Plus plan) | Free Developer plan (5,000 traces/mo, 1 seat, 14-day retention) |
+| **[Humanloop](https://humanloop.com/)** | Enterprise prompt engineering and evaluation platform (Note: platform sunset announced Sept 2025). | Custom / Enterprise | Free trial (2 team members, 50 eval runs, 10,000 logs/mo) |
+| **[DeepEval / Confident AI](https://www.confident-ai.com/)** | Open-source evaluation framework (DeepEval) with a commercial platform (Confident AI) for metrics, CI gates, and production monitoring. | $19.99/user/month (Starter plan) | Free Forever plan (2 seats, 1 project, 5 test runs/week, 1 GB trace data/mo, 7-day retention) |
+| **[Ragas](https://docs.ragas.io/)** | Open-source RAG evaluation framework often paired with commercial or self-hosted observability tools. | Open-Source / Self-Hosted | Free forever (100% open-source Python framework; self-hosted limits depend on infrastructure) |
+| **[Galileo](https://www.galileo.ai/)** | LLM evaluation and observability platform focused on quality, hallucination detection, and production insights. | $100/month (Pro plan billed annually) | Free plan (5,000 traces/mo, unlimited users and custom evaluations) |
+| **[PromptLayer](https://www.promptlayer.com/)** | Prompt management and evaluation platform with versioning, logging, and testing capabilities. | $49/month (Pro plan) | Free plan (2,500 requests/mo, 10 playground runs/day, 10MB dataset storage) |
+| **[Helicone](https://www.helicone.ai/)** | LLM observability platform that supports logging and analysis useful for prompt performance evaluation. | $79/month (Pro plan) | Free Hobby plan (10,000 requests/mo, 1 GB storage, 7-day retention, 1 seat) |
+| **[Langfuse](https://www.langfuse.com/)** | Open-source LLM engineering platform with strong evaluation, datasets, experiments, and tracing (cloud and self-hosted). | $59/month (Team plan) | Free Hobby Cloud plan (50,000 units/mo, 2 users, 30-day retention) or unlimited self-hosted OSS |
+| **[Agenta](https://agenta.ai/)** | Open-source LLMOps platform focused on prompt engineering, evaluation, and collaboration. | $49/month (Pro plan) | Free Hobby Cloud plan (5,000 agent runs/mo, 2 team members) or unlimited self-hosted OSS |
+| **[PromptPerfect](https://promptperfect.jina.ai/)** | Tools aimed at optimizing and testing prompt quality. | $9.50/month (Standard plan) | Free plan (20 initial signup credits / up to 3 prompts/day) & 3-day free trial on paid plans |
 
 
 
