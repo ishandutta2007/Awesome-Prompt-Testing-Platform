@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Prompt-Testing-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Prompt-Testing-Platform?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Prompt-Testing-Platform"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Prompt-Testing-Platform?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Prompt-Testing-Platform/stargazers"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Prompt-Testing-Platform?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Prompt-Testing-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,33 +68,33 @@ This repository tracks top **SaaS platforms** and **open-source projects** for *
 
 ## 🔓 Open-Source GitHub Projects
 
-> **Sorted by GitHub Stars (Descending)** ⭐
+> **Sorted by GitHub_Stars (Descending)** ⭐
 
-- **[Langfuse](https://github.com/langfuse/langfuse)** [<img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="GitHub stars"/>](https://github.com/langfuse/langfuse/stargazers) ⚡  
+- **[Langfuse](https://github.com/langfuse/langfuse)** [<img src="https://img.shields.io/github/stars/langfuse/langfuse?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/langfuse/langfuse/stargazers) ⚡  
   Open-source LLM observability and evaluation platform with datasets, experiments, LLM-as-a-judge, and prompt-linked scoring.
 
-- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [<img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="GitHub stars"/>](https://github.com/Arize-ai/phoenix/stargazers) 🔥  
+- **[Arize Phoenix](https://github.com/Arize-ai/phoenix)** [<img src="https://img.shields.io/github/stars/Arize-ai/phoenix?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/Arize-ai/phoenix/stargazers) 🔥  
   Open-source observability and evaluation toolkit for LLM, RAG, and embedding workflows with automated evaluations and tracing.
 
-- **[Ragas](https://github.com/explodinggradients/ragas)** [<img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white" alt="GitHub stars"/>](https://github.com/explodinggradients/ragas/stargazers) 📚  
+- **[Ragas](https://github.com/explodinggradients/ragas)** [<img src="https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/explodinggradients/ragas/stargazers) 📚  
   Open-source framework specifically designed for evaluating Retrieval-Augmented Generation (RAG) pipelines with reference-free and reference-based metrics.
 
-- **[DeepEval](https://github.com/confident-ai/deepeval)** [<img src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white" alt="GitHub stars"/>](https://github.com/confident-ai/deepeval/stargazers) 🎯  
+- **[DeepEval](https://github.com/confident-ai/deepeval)** [<img src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/confident-ai/deepeval/stargazers) 🎯  
   Open-source Python evaluation framework with research-backed metrics, pytest integration, unit-test style LLM testing, and CI/CD quality gates.
 
-- **[EleutherAI LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** [<img src="https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social&color=white" alt="GitHub stars"/>](https://github.com/EleutherAI/lm-evaluation-harness/stargazers) 🧪  
+- **[EleutherAI LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)** [<img src="https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/EleutherAI/lm-evaluation-harness/stargazers) 🧪  
   A framework for algorithmic evaluation of language models over 200+ standardized academic and custom tasks.
 
-- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [<img src="https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white" alt="GitHub stars"/>](https://github.com/promptfoo/promptfoo/stargazers) 🛡️  
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** [<img src="https://img.shields.io/github/stars/promptfoo/promptfoo?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/promptfoo/promptfoo/stargazers) 🛡️  
   Open-source CLI and library for evaluating prompts, agents, and RAGs. Supports security red-teaming, vulnerability scanning, multi-model comparison, and CI/CD integration (MIT).
 
-- **[Giskard](https://github.com/Giskard-AI/giskard-oss)** [<img src="https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=social&color=white" alt="GitHub stars"/>](https://github.com/Giskard-AI/giskard-oss/stargazers) 🛡️  
+- **[Giskard](https://github.com/Giskard-AI/giskard-oss)** [<img src="https://img.shields.io/github/stars/Giskard-AI/giskard-oss?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/Giskard-AI/giskard-oss/stargazers) 🛡️  
   Open-source AI testing library for detecting hallucinations, prompt injections, data leakage, and performance biases in LLM applications.
 
-- **[Agenta](https://github.com/Agenta-AI/agenta)** [<img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white" alt="GitHub stars"/>](https://github.com/Agenta-AI/agenta/stargazers) 🤖  
+- **[Agenta](https://github.com/Agenta-AI/agenta)** [<img src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/Agenta-AI/agenta/stargazers) 🤖  
   Open-source platform for prompt engineering, versioning, evaluation, and collaborative testing of LLM applications.
 
-- **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** [<img src="https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social&color=white" alt="GitHub stars"/>](https://github.com/UKGovernmentBEIS/inspect_ai/stargazers) 🔎  
+- **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** [<img src="https://img.shields.io/github/stars/UKGovernmentBEIS/inspect_ai?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/UKGovernmentBEIS/inspect_ai/stargazers) 🔎  
   Open-source framework developed by the AI Safety Institute for structured evaluation of language model capabilities, safety risks, and agentic workflows.
 
 ---
